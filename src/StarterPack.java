@@ -5,7 +5,7 @@ public class StarterPack {
     private JFrame window;
 
     public StarterPack(){
-        window = new JFrame("иди нахуй");
+        window = new JFrame("Калькулятор");
         window.setSize(410,600);
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
